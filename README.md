@@ -10,13 +10,17 @@ The Resume Dashboard is designed to present my professional profile in an innova
 Interactive Visuals: Navigate through my professional journey with interactive elements that highlight key aspects of my career.
 Skills & Certifications: Detailed visual representations of my technical skills and certifications.
 
-### Project Highlights: Summaries of significant projects I've worked on, with visual insights.
-Professional Experience: A timeline of my career progression, showcasing key milestones and roles.
-### Educational Background: An overview of my academic achievements.
-Technologies Used 
-### Tableau: 
+### Project Highlights: 
+Summaries of significant projects I've worked on, with visual insights.
 
+### Professional Experience: 
+A timeline of my career progression, showcasing key milestones and roles.
+
+### Educational Background: An overview of my academic achievements.
+
+### Technologies Used Tableau: 
 For creating the interactive dashboard and visualizations.
+
 ### How to View
 
 You can view the interactive dashboard by following this link to the Tableau public dashboard. - https://public.tableau.com/app/profile/vinay.kumar.panika3862/viz/TableauResumeVinayKumarPanika/Dashboard
